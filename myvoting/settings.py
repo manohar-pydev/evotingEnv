@@ -34,7 +34,7 @@ SECRET_KEY = 'cge)@komknkyvel(^)f&zlmozdjyu(jyr_d+zi#+m42(ert9k#'
 DEBUG = True
 
 # Fetch allowed hosts from environment variables and split them into a list
-ALLOWED_HOSTS = ["127.0.0.1", "34.226.119.20"]
+ALLOWED_HOSTS = ["127.0.0.1", "13.232.207.18"]
 
 # Application definition
 
